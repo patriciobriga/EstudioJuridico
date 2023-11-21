@@ -54,7 +54,7 @@
 }
 
 .fondo-naranja{
-    background-image:url(/media/blob.svg);
+    background-image:url(../media//blob.svg);
     background-size: 740px;
     background-repeat: no-repeat;
 }

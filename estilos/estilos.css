@@ -159,6 +159,30 @@
 
 /* fin footer */
 
-/* media queries */
+.logo-footer{
+    height: 70px;
+}
 
+/* media queries */
+@media screen and (max-width: 758px){
+
+    .inicio{
+        margin: 0;
+    }
+
+    .img-principal{
+        margin: 100px 0 100px 50px;
+        height: 300px;
+    }
+
+    .fondo-naranja{
+        background-image:url(../media//blob.svg);
+        background-size: 450px;
+        background-repeat: no-repeat;
+    }
+
+    .mapa{
+        width: 100%;
+    }
+}
 /* fin media queries */
